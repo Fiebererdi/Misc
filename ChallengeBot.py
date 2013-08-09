@@ -5,7 +5,7 @@
 # [+] Twitter: @Z3r0n301                                  #
 #=========================================================#
 
-import socket, time, os, math
+import socket, math
 
 def ginpong():
     while 1:
