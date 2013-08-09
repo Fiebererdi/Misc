@@ -70,7 +70,6 @@ else:
     bot.send(b"JOIN "+channel)
     print("[+] Playing PING PONG to impose our bot presence")
     ginpong()
-
     print("[+] Getting'em")
     GetEm()
 
